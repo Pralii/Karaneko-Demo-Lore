@@ -17,18 +17,21 @@ The game is actually on Kickstarter, go check it out!
 [https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)
 
 # Is this official?
-**No.** It's all directed by fans of the game, independantly from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
+## **No.** 
+It's all directed by fans of the game, independantly from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
+
 This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
 
+
 # What are you using?
-We'll be using [Obsidian](https://obsidian.md/) for gathering notes in an organized manner
+We'll be using [**Obsidian**](https://obsidian.md/) for gathering notes in an organized manner
 Discord for coordination and chatting about the project
 
 For video editing uh we're not there yet.
 
 # Contribution
-If you think something is missing, or would like to add in a theory or links, or join the video production process, or even questions/doubts about some things, you surely can!
-Please join the official Karaneko Discord and get in touch with people in `#karaneko-lore-vid-discussion`. That will make things easier.
+If you think something is missing, or would like to add in a theory or links, or join the video production process, or even questions/doubts about some things, **you surely can!**
+Please **join the official Karaneko Discord** and get in touch with people in `#karaneko-lore-vid-discussion`. That will make things easier.
 
 # Acknowledgements
 Big thanks to:
