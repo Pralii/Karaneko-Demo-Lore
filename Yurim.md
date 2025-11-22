@@ -1,2 +1,2 @@
-- Is cute (->[proof](https://github.com/Pralii/Patrolling/blob/main/image.png))
+- Is cute (->[proof](https://github.com/Pralii/Karaneko-Demo-Lore/blob/main/CuteYurim.png))
 - Likes toppling my bottles •\`w´•
