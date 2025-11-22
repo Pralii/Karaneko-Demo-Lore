@@ -70,8 +70,9 @@ Big thanks to:
 - **Deder** for hanging out often and being moral support and finding things out
 - **Noodle** for being the designated "dataminer"
 - **Sobol14** for being there from time to time
+  
 This is a very young project for now. More thanks incoming.
-- Yurim for being the cutest cat
+- **Yurim** for being the cutest cat
 
 # Contact
 For any concerns, you may find me (us) easily on Discord, this page is owned by user `@Pralii~~` (`pralii`) .
