@@ -65,9 +65,13 @@ This is destined for people who find GitHub complicated and are collaborators.
 Big thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and staff for answering some of our questions with well-placed comments about our ramblings
-
+- **Solv** for being the igniting spark *"you should do a video"* and engine of this project
+- **Alec** for hanging out often and being moral support
+- **Deder** for hanging out often and being moral support and finding things out
+- **Noodle** for being the designated "dataminer"
+- **Sobol14** for being there from time to time
 This is a very young project for now. More thanks incoming.
-- Yurim for being the cutest cat of the game
+- Yurim for being the cutest cat
 
 # Contact
 For any concerns, you may find me (us) easily on Discord, this page is owned by user `@Pralii~~` (`pralii`) .
