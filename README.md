@@ -22,6 +22,8 @@ It's all directed by fans of the game, independantly from the devs. The lore and
 
 This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
 
+# Is the content of this equivalent to a wiki?
+Mmmmmaybe. Probably.
 
 # What are you using?
 We'll be using [**Obsidian**](https://obsidian.md/) for gathering notes in an organized manner
@@ -39,3 +41,6 @@ Big thanks to:
 - **Mau** and **Power**, part of the dev team and staff for answering some of our questions with well-placed comments about our ramblings
 This is a very young project for now. More thanks incoming.
 - Yurim for being the cutest cat of the game
+
+# Contact
+For any concerns, you may find me (us) easily on Discord, this page is owned by user `pralii`.
