@@ -17,7 +17,7 @@ The game is actually on Kickstarter, go check it out!
 [https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)
 
 # Is this official?
-## **No.** 
+## Short answer: **No.** 
 It's all directed by fans of the game, independantly from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
 
 This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
@@ -27,18 +27,43 @@ Mmmmmaybe. Probably.
 
 # What are you using?
 We'll be using [**Obsidian**](https://obsidian.md/) for gathering notes in an organized manner
-Discord for coordination and chatting about the project
+**Discord** for coordination and chatting about the project
 
 For video editing uh we're not there yet.
+
+## Importing all the notes into Obsidian
+This is destined for people who find GitHub complicated. 
+
+### For your first time:
+- Download the whole project (with the green `<> Code` button -> Download ZIP)
+- Extract it into a folder wherever you want it to be
+- Get the "Manage vaults" window in Obsidian (accessible in a submenu in the bottom left if not open by default)
+- Open folder as vault the extracted folder
+
+### For getting the latest version:
+- Download what you want to get and replace the old note(s) in your folder.
+
+
 
 # Contribution
 If you think something is missing, or would like to add in a theory or links, or join the video production process, or even questions/doubts about some things, **you surely can!**
 Please **join the official Karaneko Discord** and get in touch with people in `#karaneko-lore-vid-discussion`. That will make things easier.
 
+Ping me (`@Pralii~~`) on Discord so that I add you as a contributor. 
+## How do I contribute? I forgot...
+This is destined for people who find GitHub complicated and are collaborators.
+
+- click "add file" (next to green `<> Code` button) -> upload files
+- Choose the files you want to poactively update/upload
+- Write a title and description of your contribution
+- Create a new Branch and name it  (automatically selected)
+
+
 # Acknowledgements
 Big thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and staff for answering some of our questions with well-placed comments about our ramblings
+
 This is a very young project for now. More thanks incoming.
 - Yurim for being the cutest cat of the game
 
