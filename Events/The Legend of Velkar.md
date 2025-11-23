@@ -21,3 +21,5 @@ And thus began the glorious reign of the mighty Velkar gods.
 The adoring people of [[Innova]] we're blessed by love. 
 They stepped into the graceful path of God of Love. 
 She was supposed to exist for the people, Yet the unexpected happened..."
+
+-- game cutscene shuts off. It was [[Karam]] playing on his PC and [[Nayan]] shut off by walking on the socket button

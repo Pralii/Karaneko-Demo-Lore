@@ -1,2 +1,0 @@
-- Is cute (->[proof](https://github.com/Pralii/Patrolling/blob/main/image.png))
-- Likes toppling my bottles •\`w´•

@@ -1,1 +1,1 @@
-aka the country of the academy
+aka the country of [[The academy]]

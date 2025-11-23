@@ -1,0 +1,5 @@
+- [[Karam]]'s little brother
+- adorable ball of brotherly cuteness
+- Completed [[Touhou]] easy mode! Took him all night! ggs
+- Challenges [[Karam]] to gaming duels often, though he seems to often lose.
+- Loves his brother.
