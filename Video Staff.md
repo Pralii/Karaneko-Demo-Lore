@@ -1,0 +1,8 @@
+- **Solv** for being the igniting spark *"you should do a video"* and engine of this project
+- **Pralii\~\~** for being the passionate lore guy
+- **Alec** for hanging out often and being moral support
+- **Deder** for hanging out often and being moral support and finding things out
+- **Noodle** for being the designated "dataminer"
+- **Sobol14** for being there from time to time
+- **Kirby** for being our volunteer video editor
+- **Lety** for surely drawing the thumbnail for us
