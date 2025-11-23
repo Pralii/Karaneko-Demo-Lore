@@ -23,7 +23,7 @@ It's all directed by fans of the game, independantly from the devs. The lore and
 This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
 
 # Is the content of this equivalent to a wiki?
-Mmmmmaybe. Probably.
+Mmmmmaybe. Probably. But less descriptive, more oriented towards noticing neat details and lore/character discussion.
 
 # What are you using?
 We'll be using [**Obsidian**](https://obsidian.md/) for gathering notes in an organized manner
