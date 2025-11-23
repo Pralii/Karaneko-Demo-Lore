@@ -70,6 +70,8 @@ Big thanks to:
 - **Deder** for hanging out often and being moral support and finding things out
 - **Noodle** for being the designated "dataminer"
 - **Sobol14** for being there from time to time
+- **Kirby** for being our volunteer video editor
+- **Lety** for surely drawing the thumbnail for us
   
 This is a very young project for now. More thanks incoming.
 - **Yurim** for being the cutest cat

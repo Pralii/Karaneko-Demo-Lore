@@ -1,11 +1,10 @@
 - Likes [[Yurim]]
 - Has seen hard times...
-- Has a cleaning obsession, since [[The Incident]].
+- Has a cleaning obsession (cf. [[Karam's Cleaning OCD]]), since [[The Incident]].
 
 
 - Likes Reira, the game character. He is a Gamer!
 
-----Things of note----
-Has a box full of cleaning supplies
--> His favorite items.
-Picking up the [[Broom]] fills him with confidence
+----Smaller Things of note----
+Has eaten too much junk food lately, proably because of depression.
+- Before getting Yurim, he was fond of dogs.
